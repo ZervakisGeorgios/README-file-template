@@ -1,4 +1,4 @@
-/github/downloads/:user/:repo/:tag/total
+https://img.shields.io/github/downloads/ZervakisGeorgios/README-file-template/georgios/total
 # I am Header 1
 ##  I am header 2
 
