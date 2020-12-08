@@ -1,4 +1,3 @@
-https://img.shields.io/github/downloads/ZervakisGeorgios/README-file-template/georgios/total
 # I am Header 1
 ##  I am header 2
 
@@ -34,3 +33,5 @@ _give italic emphasis_
 ```Python 
 def somestuff(variablex):
     return variablex```
+
+Get some badges from here https://shields.io
