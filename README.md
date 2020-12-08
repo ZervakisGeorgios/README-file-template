@@ -28,3 +28,6 @@ variable_2 = Number
 _give italic emphasis_
 
 **Give some strong emphasis with stars**
+
+```Python def somestuff(variablex):
+            return variablex```
