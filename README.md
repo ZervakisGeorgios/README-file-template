@@ -35,5 +35,10 @@ def somestuff(variablex):
     return variablex
 ```
 
+```Terraform 
+resource "somestuff" "resource-name:
+    variablex = var.variablex
+```
+
 **Add a Live demo**
 Get some badges from here https://shields.io
