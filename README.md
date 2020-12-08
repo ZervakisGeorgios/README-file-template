@@ -29,5 +29,7 @@ _give italic emphasis_
 
 **Give some strong emphasis with stars**
 
-```Python def somestuff(variablex):
-            return variablex```
+### I am header 3 and below you can paste some block of text with the option to speficy the programming language
+```Python 
+def somestuff(variablex):
+    return variablex```
