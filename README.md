@@ -36,7 +36,7 @@ def somestuff(variablex):
 ```
 
 ```Terraform 
-resource "somestuff" "resource-name:
+resource "somestuff" "resource-name":
     variablex = var.variablex
 ```
 
