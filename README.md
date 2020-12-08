@@ -25,3 +25,5 @@ module "X" {
 variable_1 = "String1"
 variable_2 = Number
 ```
+_give italic emphasis_
+**Give some strong emphasis with stars**
