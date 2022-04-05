@@ -40,6 +40,10 @@ def somestuff(variablex):
 resource "somestuff" "resource-name":
     variablex = var.variablex
 ```
+* Bullet points
+  * Nested bullet points
+
+[Links](https://example.com)
 
 **Add a Live demo**
 Get some badges from here https://shields.io
